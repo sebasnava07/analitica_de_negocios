@@ -19,4 +19,4 @@
 2. Segundo elemento de la lista  
 3. Tercer elemento de la lista  
 
-[Universidad Externado de Colombia][#]
+[Universidad Externado de Colombia](#)
